@@ -10,19 +10,19 @@ As of now I have accomplished the following project goals.
 
 i) Scrapped Air Quality Data collected using REST API calls from the smart streetlights using the cloud service platform.
 
-2) Preprocessed scrapped data into a structured form.
+ii) Preprocessed scrapped data into a structured form.
 
-3) Researched vital factors which contribute to the Air Quality (such as AQI, Pollutant concentration).
+iii) Researched vital factors which contribute to the Air Quality (such as AQI, Pollutant concentration).
 
-4) Used Tableau Prep/Python to develop automated data pipelines for fedding preprocessed data into a centralized database configured using MySQL.
+iv) Used Tableau Prep/Python to develop automated data pipelines for fedding preprocessed data into a centralized database configured using MySQL.
 
-5) Performed Feature Engineering in order to calculate AQI index, AQI index category, Pollutant Concentration(C).
+v) Performed Feature Engineering in order to calculate AQI index, AQI index category, Pollutant Concentration(C).
 
-6) Validated calculated fields using EPA AQI index calculator.
+vi) Validated calculated fields using EPA AQI index calculator.
 
-7) Populated pre-processed data tables into Tableau and develop insightful customary dashboards.
+vii) Populated pre-processed data tables into Tableau and develop insightful customary dashboards.
 
-8) Correlated analyzed data with number of student enrollment/traffic emission data collected during the fall semester.
+viii) Correlated analyzed data with number of student enrollment/traffic emission data collected during the fall semester.
 
 # Snapshot Dashboard 
 
