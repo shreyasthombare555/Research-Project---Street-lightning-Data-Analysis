@@ -46,4 +46,4 @@ ii) Scrapping noise and wind speed data from the street light installed at the S
 
 # Notes
 
-_Please note, the jupyter notebook and the dashboards included in this repository represent a short glimpse of the analysis currently completed_
+_Please note, the jupyter notebook and the dashboard link included in this repository represent a short glimpse of the analysis currently completed_
