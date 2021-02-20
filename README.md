@@ -38,7 +38,7 @@ ii) Exploratory Data Analysis and Data VisualizationL: Tableau.
 
 iii) Data Management: MYSQL, MYSQL Workbench, Tableau Prep. 
 
-# Fututre Scope
+# Future Scope
 
 i) Blending wind speed data with AQI data in order to forecast adverse weather condition and penetrate warning for high risk citizens.
 
