@@ -1,4 +1,4 @@
-# Research Project Street Lightning Data Analysis - (_Currently Working_)
+# Research Project - Street Lightning Data Analysis - (_Currently Working_)
 
 # Project Introduction
 
