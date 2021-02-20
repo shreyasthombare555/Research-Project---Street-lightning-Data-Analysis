@@ -26,7 +26,7 @@ viii) Correlated analyzed data with number of student enrollment/traffic emissio
 
 # Snapshot Dashboard 
 
-**Fall Semester AQI data - Dashboard Link: ** https://public.tableau.com/profile/shreyas4686#!/vizhome/Air_Quality_Index_Fall_Semester_First_Week/Dashboard1
+**Fall Semester AQI data - Dashboard Link:** https://public.tableau.com/profile/shreyas4686#!/vizhome/Air_Quality_Index_Fall_Semester_First_Week/Dashboard1
 
 **Correlating Traffic Emission/Student Enrollment data with Air Quality data for entire fall 2020 semester - Dashboard Link: https://public.tableau.com/profile/shreyas4686#!/vizhome/AQIIndex_Student_Enrollment_WeekDays/AverageweekdaysAQIandStudentEnrollment**
 
