@@ -30,6 +30,9 @@ viii) Correlated analyzed data with number of student enrollment/traffic emissio
 
 **Correlating Traffic Emission/Student Enrollment data with Air Quality data for entire fall 2020 semester - Dashboard Link: https://public.tableau.com/profile/shreyas4686#!/vizhome/Final_AQIVSStudentEnrollment_Weekdays_AllStreetlights/Dashboard1**
 
+**Exploratory Data Analysis: Air Quality Data: 
+https://public.tableau.com/profile/shreyas4686#!/vizhome/AirQualityExploratoryDataAnalysis_2_16009080267500/Dashboard1**
+
 # Technologies Used
 
 i) Data Scrapping and Pre-processing: Python and MS Excel.
